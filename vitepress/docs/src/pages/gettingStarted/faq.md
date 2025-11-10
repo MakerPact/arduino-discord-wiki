@@ -4,7 +4,7 @@ title: FAQ
 
 [← Back to Home](../index.md)
 
-## Frequently Asked Questions (Arduino)
+## Frequently Asked Questions (Arduino) {.text-[#e67e22] }
 
 Below are 20 frequently asked questions about Arduino — 10 of the most commonly searched questions plus 10 other commonly asked/practical topics. Each question has a short, practical answer and links where relevant.
 
