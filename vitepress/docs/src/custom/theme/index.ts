@@ -34,7 +34,7 @@ const theme = {
         { text: "Introduction", link: "/gettingStarted/basicsOfProgramming" },
         { text: "Buyers Guide", link: "/gettingStarted/arduinobuyersguide" },
         { text: "FAQ", link: "/gettingStarted/faq" },
-        { text: "Lab Supplys", link: "/gettingStarted/labSupplys" },
+        { text: "Lab Supplys", link: "/gettingStarted/labsupplys" },
       ],
     },
     {
